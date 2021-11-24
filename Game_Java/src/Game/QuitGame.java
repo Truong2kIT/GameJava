@@ -8,15 +8,15 @@ public class QuitGame implements ActionListener {
 	
 		
 		String[] questions = 	{
-									"Which company created Java?",
-									"Which year was Java created?",
-									"What was Java originally called?",
-									"Who is credited with creating Java?"
+									"Ho va ten?",
+									"nam sinh?",
+									"cau hoi vo van?",
+									"ban la ai?"
 								};
 		String[][] options = 	{
-									{"Sun Microsystems","Starbucks","Microsoft","Alphabet"},
-									{"1989","1996","1972","1492"},
-									{"Apple","Latte","Oak","Koffing"},
+									{"Phan Van Truong","Truong Phan Van","PhanTruong","TruongPhan"},
+									{"1989","2000","1999","2021"},
+									{"anc","aaa","aaas","aaaa"},
 									{"Steve Jobs","Bill Gates","James Gosling","Mark Zuckerburg"}
 								};
 		char[] answers = 		{
